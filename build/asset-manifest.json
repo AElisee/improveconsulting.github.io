@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b90d902d.css",
+    "main.js": "/static/js/main.2ded596d.js",
+    "static/media/hands-coffee-smartphone-technology.jpg": "/static/media/hands-coffee-smartphone-technology.965fc91adb61102cc2bc.jpg",
+    "static/media/pexels-photo-9301290.jpg": "/static/media/pexels-photo-9301290.fa23eed25d136b8ad378.jpg",
+    "static/media/env.jpg": "/static/media/env.3fc1dfdf69265546299f.jpg",
+    "static/media/etude_marche.jpg": "/static/media/etude_marche.926341c78ea804a31bd0.jpg",
+    "static/media/social.jpg": "/static/media/social.7ff8b1fb293696eab70b.jpg",
+    "index.html": "/index.html",
+    "main.b90d902d.css.map": "/static/css/main.b90d902d.css.map",
+    "main.2ded596d.js.map": "/static/js/main.2ded596d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90d902d.css",
+    "static/js/main.2ded596d.js"
+  ]
+}
